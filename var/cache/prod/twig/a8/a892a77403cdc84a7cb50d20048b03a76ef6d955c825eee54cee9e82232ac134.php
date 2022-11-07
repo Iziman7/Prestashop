@@ -11,8 +11,8 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* __string_template__99b44054fee500b0f49872e54ad08db3ff459b4243985768bb0ee90d62ad2a8a */
-class __TwigTemplate_d13f506b3513c8143aa4b9ea8b35e9fa853595f0a99a89d9a46120882dbbdbc3 extends \Twig\Template
+/* __string_template__6b93e918277e2c14a432e7f91500c83221af18c3082717f9c36156eeac92d85a */
+class __TwigTemplate_b169f601d52db20bf1cfcf0bd704e75051737c6e0a0fd9e04a06180c14b11434 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
@@ -205,7 +205,7 @@ var show_new_orders = \"1\";
           <a id=\"quick-add-link\"
         class=\"dropdown-item js-quick-link\"
         href=\"#\"
-        data-rand=\"77\"
+        data-rand=\"99\"
         data-icon=\"icon-AdminAdvancedParameters\"
         data-method=\"add\"
         data-url=\"index.php/configure/advanced/performance\"
@@ -1563,7 +1563,7 @@ var show_new_orders = \"1\";
 
     public function getTemplateName()
     {
-        return "__string_template__99b44054fee500b0f49872e54ad08db3ff459b4243985768bb0ee90d62ad2a8a";
+        return "__string_template__6b93e918277e2c14a432e7f91500c83221af18c3082717f9c36156eeac92d85a";
     }
 
     public function isTraitable()
@@ -1586,6 +1586,6 @@ var show_new_orders = \"1\";
 
     public function getSourceContext()
     {
-        return new Source("", "__string_template__99b44054fee500b0f49872e54ad08db3ff459b4243985768bb0ee90d62ad2a8a", "");
+        return new Source("", "__string_template__6b93e918277e2c14a432e7f91500c83221af18c3082717f9c36156eeac92d85a", "");
     }
 }

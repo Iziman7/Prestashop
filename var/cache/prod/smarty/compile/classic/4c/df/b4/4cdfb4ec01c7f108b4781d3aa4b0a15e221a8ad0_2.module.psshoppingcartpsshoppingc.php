@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-20 11:54:11
+/* Smarty version 3.1.43, created on 2022-11-07 11:26:19
   from 'module:psshoppingcartpsshoppingc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63510cb360ccf8_06533200',
+  'unifunc' => 'content_6368cf3b020ed7_48857868',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4cdfb4ec01c7f108b4781d3aa4b0a15e221a8ad0' => 
     array (
       0 => 'module:psshoppingcartpsshoppingc',
-      1 => 1666255855,
+      1 => 1667812928,
       2 => 'module',
     ),
   ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63510cb360ccf8_06533200 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6368cf3b020ed7_48857868 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div>
-<span class="product-quantity"><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['quantity'], ENT_QUOTES, 'UTF-8');?>
-</span>
+<!-- <span class="product-quantity"><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['quantity'], ENT_QUOTES, 'UTF-8');?>
+</span> -->
 <div class="product-row">
 <span class="product-name"><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['name'], ENT_QUOTES, 'UTF-8');?>
 </span>

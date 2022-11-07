@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-20 11:54:11
+/* Smarty version 3.1.43, created on 2022-11-07 11:26:18
   from 'module:pscontactinfonav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63510cb3043b22_02948774',
+  'unifunc' => 'content_6368cf3ab17879_85228723',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '0eb2119957cbc13b240126b3ccd8fac8f109f1e2' => 
     array (
       0 => 'module:pscontactinfonav.tpl',
-      1 => 1658334665,
+      1 => 1667812937,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63510cb3043b22_02948774 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6368cf3ab17879_85228723 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="_desktop_contact_link">
   <div id="contact-link">
     <?php if ($_smarty_tpl->tpl_vars['contact_infos']->value['phone']) {?>

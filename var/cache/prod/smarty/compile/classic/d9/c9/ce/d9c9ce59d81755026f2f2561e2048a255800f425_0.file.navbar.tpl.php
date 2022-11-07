@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-20 11:51:32
+/* Smarty version 3.1.43, created on 2022-11-07 11:25:44
   from 'C:\OpenServer\domains\presta-home\modules\welcome\views\navbar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63510c1433d852_92786143',
+  'unifunc' => 'content_6368cf182aaf19_53230047',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63510c1433d852_92786143 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6368cf182aaf19_53230047 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-navbar bootstrap">
   <div class="row text">
